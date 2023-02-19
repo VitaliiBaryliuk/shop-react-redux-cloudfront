@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Store!
+            My Super Store! test
           </Link>
         </Typography>
 
@@ -44,7 +44,7 @@ export default function Header() {
               aria-controls="menu-appbar"
               aria-haspopup="true"
               onClick={handleMenu}
-              color="inherit"
+              color="success"
               size="large"
             >
               <AccountCircle />
