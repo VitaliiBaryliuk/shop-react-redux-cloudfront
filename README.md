@@ -1,3 +1,7 @@
+# AWS links
+
+[S3website link] (http://super-store-dev-serverlessdeploymentbucket.s3-website.eu-west-3.amazonaws.com/)
+[Cloudfront link] (https://d3nui0d4pbm0dk.cloudfront.net/)
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
