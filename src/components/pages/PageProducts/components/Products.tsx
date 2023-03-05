@@ -33,6 +33,7 @@ export default function Products() {
                 {product.title}
               </Typography>
               <Typography>{formatAsPrice(product.price)}</Typography>
+              {count && <Typography>Count: {count}</Typography>}
             </CardContent>
             <CardActions>
               <AddProductToCart product={product} />
